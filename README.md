@@ -1,4 +1,5 @@
-# #MakeoverMondayCoursera (2019 Week 26)
+# MakeoverMondayCoursera 
+## 2019 Week 26
 This repo is prepared for the #MakeoverMonday challenge as a part of _Fundamentals of Visualization with Tableau_ course.
 
 ![image](https://user-images.githubusercontent.com/97318595/149786447-84652a14-4e0f-47df-8fc0-1d5762f13e93.png)
